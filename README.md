@@ -65,6 +65,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
+
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+### Packages used
+
+Fontawesome (`npm install @fortawesome/fontawesome-svg-core`, `npm install @fortawesome/free-solid-svg-icons`, `npm install @fortawesome/react-fontawesome`)
+Date-picker (`npm install react-datepicker`)
+React-router-dom ( `npm install react-router-dom`)
+
+
+### Technologies used
+
+Frontend - React JS
+Backend - NodeJS, ExpressJS, MongoDB,
+Production - Netlify, vercel
+
+
+### Authentication procedure
+
+Authentication is of a simple type, that checks for the email and password in the database, If available then the user will login with that account else it will create a new account with that credentials!
+
